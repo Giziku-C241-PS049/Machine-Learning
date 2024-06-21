@@ -13,7 +13,7 @@ Giziku is an android Application that was created because there was a concerning
 6. (MD) A009D4KY3837 – Nicolas Kevin – University of Gunadarma - [Active]
 
 # Machine Learning
-Building a machine learning models with the help of tensorflow and python for a food classification with tensorflow and food recommendation system with basic machine learning also converting the model so that Cloud Computing team and Mobile team could deploy the model.
+Building a machine learning models with the help of tensorflow, python, mobilenet pretrain and adam optimizer for a food classification  and food recommendation system with basic machine learning also converting the model so that Cloud Computing team and Mobile team could deploy the model.
 
 # Mobile Development
 Designing a UI/UX with figma, implementing the UI/UX design into the apps, building the feature for the giziku apps and implementing tflite model for the mobile apps.
